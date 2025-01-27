@@ -1,6 +1,6 @@
 # SuperMart Insights using MySql
-SuperMart Insights and Growth
-Description
+SuperMart Insights and Growth<br/>
+Description :
 This project aims to analyze SuperMart's key performance indicators (KPIs) across multiple dimensions, including categories, brands, products, and store types, using dynamic datasets. By leveraging advanced data analytics tool like MySQL Workbench, we generate actionable insights to drive business decisions and growth strategies.
 
 Objectives:
