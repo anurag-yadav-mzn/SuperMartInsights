@@ -35,6 +35,7 @@ Top 50 Products Report: Explore LM performance at the product level, including G
 StoreType_Id Report: Analyze store-type performance for LM, identifying growth trends and patterns.
 
 Technical Implementation:
+
 Data Sources:
 
 order_details: Provides detailed information on customer orders, including product, store, and transactional data.
@@ -44,18 +45,26 @@ product_hierarchy: Contains details on product categories and brands.
 store_cities: Includes store type and location-specific details.
 
 Tools and Platforms:
+
 MySQL Workbench: Used for executing SQL queries and generating reports dynamically.
 
 Dynamic Date Functionality:
 The queries are designed with a dynamic date component to ensure automated reporting for daily, MTD, LMTD, and LM data without manual intervention.
 
 Key Metrics Analyzed:
+
 Orders: Total count of customer orders.
+
 GMV: Gross Merchandise Value, reflecting the total value of goods sold.
+
 Revenue: Net earnings after discounts and refunds.
+
 Customers: Total number of unique customers.
+
 Live Products: Count of active products available for purchase.
+
 Live Stores: Number of operational stores.
+
 Growth %: Percentage change in performance metrics over comparable timeframes.
 
 Expected Outcomes:
