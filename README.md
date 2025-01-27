@@ -36,8 +36,11 @@ StoreType_Id Report: Analyze store-type performance for LM, identifying growth t
 
 Technical Implementation:
 Data Sources:
+
 order_details: Provides detailed information on customer orders, including product, store, and transactional data.
+
 product_hierarchy: Contains details on product categories and brands.
+
 store_cities: Includes store type and location-specific details.
 
 Tools and Platforms:
