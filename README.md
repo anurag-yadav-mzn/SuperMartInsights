@@ -50,21 +50,29 @@ MySQL Workbench: Used for executing SQL queries and generating reports dynamical
 Dynamic Date Functionality:
 The queries are designed with a dynamic date component to ensure automated reporting for daily, MTD, LMTD, and LM data without manual intervention.
 
-Key Metrics Analyzed:
-
+<ul>Key Metrics Analyzed:
+<li>
 Orders: Total count of customer orders.
-
+</li>
+<li>
 GMV: Gross Merchandise Value, reflecting the total value of goods sold.
-
+</li>
+<li>
 Revenue: Net earnings after discounts and refunds.
-
+</li>
+<li>
 Customers: Total number of unique customers.
-
+</li>
+<li>
 Live Products: Count of active products available for purchase.
-
+</li>
+<li>
 Live Stores: Number of operational stores.
-
+</li>
+<li>
 Growth %: Percentage change in performance metrics over comparable timeframes.
+</li>
+</ul>
 
 Expected Outcomes:
 Identification of top-performing categories, brands, and products.
